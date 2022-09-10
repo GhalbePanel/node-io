@@ -1,2 +1,2 @@
-# node-io
+# Node IO
 Node Socket.IO
